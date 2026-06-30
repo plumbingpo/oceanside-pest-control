@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oceansidepestcontrolco.com/sitemap.xml
